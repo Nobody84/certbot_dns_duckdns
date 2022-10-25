@@ -125,7 +125,7 @@ pyrsistent==0.18.1; python_version >= "3.7" and python_full_version < "3.0.0" or
 pytest-cov==3.0.0; python_version >= "3.7" or python_version >= "3.7"
 pytest-forked==1.4.0; python_version >= "3.7"
 pytest-xdist==2.5.0; python_version >= "3.7" or python_version >= "3.7"
-pytest==7.1.0; python_version >= "3.7" or python_version >= "3.7"
+pytest==7.2.0; python_version >= "3.7" or python_version >= "3.7"
 python-augeas==1.1.0; python_version >= "3.7"
 python-dateutil==2.8.2; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.7"
 python-digitalocean==1.17.0; python_version >= "3.7"
